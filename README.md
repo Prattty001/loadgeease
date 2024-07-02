@@ -1,0 +1,2 @@
+- **Developed a comprehensive property rental platform** utilizing the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), enabling users to list, search, and book accommodations.
+- **Implemented essential features for user authentication, property management, and real-time messaging**, facilitating seamless communication and transaction handling between hosts and guests.
